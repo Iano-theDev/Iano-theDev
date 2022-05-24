@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-IOT && Roobotics enthusiast.<br>
 <h3>I'm Ian, a Software Engineer</h3>
+IOT && Roobotics enthusiast.<br>
 I’m currently a student @ ALX-AFRICA</br>
 I’m currently learning C language</br>
 Ask me about web-development</br>
