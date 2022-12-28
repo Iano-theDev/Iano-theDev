@@ -5,5 +5,6 @@ Data Science and AI enthusiast.<br>
 I’m currently a student @ ALX-AFRICA</br>
 I’m currently working on JavaScript</br>
 Ask me about web-development</br>
-My twitter: https://twitter.com/Ian_Kamande_W </br>
-My linkedin: https://www.linkedin.com/in/ian-kamande/ </br></br>
+Twitter: https://twitter.com/Ian_Kamande_W </br>
+Linkedin: https://www.linkedin.com/in/ian-kamande/ </br>
+Portfolio: https://iano-thedev.github.io/portfolio/</br></br>
