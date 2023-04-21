@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h3>I'm Ian, a Software Engineer</h3>
-Data Science and AI enthusiast.<br>
+Tech enthusiast.<br>
 <s>I’m currently a student @ ALX-AFRICA</s></br>
-I’m currently working on JavaScript</br>
+I’m currently working on Angular</br>
 Ask me about web-development</br>
 Twitter: https://twitter.com/Ian_Kamande_W </br>
 Linkedin: https://www.linkedin.com/in/ian-kamande/ </br>
