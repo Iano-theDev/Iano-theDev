@@ -2,7 +2,7 @@
 
 <h3>I'm Ian, a Software Engineer</h3>
 Tech enthusiast.<br>
-Student @ ALX-AFRICA</br>
+Alumni @ ALX-AFRICA</br>
 I’m currently working on Angular</br>
 Ask me about web-development</br>
 Twitter: https://twitter.com/Ian_Kamande_W </br>
